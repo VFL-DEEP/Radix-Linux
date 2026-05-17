@@ -7,6 +7,7 @@
  This early version invites testing and feedback from its users.
  
  **Our Community Page:** https://www.reddit.com/r/RadixLinuxCommunity/
+ 
  **Download Latest Version:** https://github.com/VFL-DEEP/Radix-Linux/releases </p>
 
 <hr>
